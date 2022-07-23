@@ -21,7 +21,7 @@ def get_salary_data():
         salary=""
         coloumns = row.find_all('td')
         coloumns = [ele.text.strip() for ele in coloumns]
-        i=0;
+        i=0
         for entry in coloumns:
             if i==0: # the first item is the name
                 name = entry
