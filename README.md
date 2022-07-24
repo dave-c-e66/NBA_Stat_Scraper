@@ -16,6 +16,6 @@ The salary will have dollar signs and comma's.
 For example if "LeBron James" was written in the player_name.txt file the following would be in the player_salary.txt file:
 $44,474,988
 
-#UML Sequence Diagram
+# UML Sequence Diagram
 
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/55772436/180630063-f67bb5e6-c20e-4890-a873-2861c640c50d.png)
